@@ -15,7 +15,7 @@
 **MultiAgents-with-Langgraph-TravelItineraryPlanner**
 
 - **Repo URL:** https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner
-- **Project Description:** Streamlit front-end orchestrating LangGraph-managed agents (itinerary, activity, weather, packing, culture, chat) powered by Ollama Llama 3.2 and Serper web search to generate exportable itineraries and PDF reports.
+- **Project Description:** Streamlit front-end orchestrating LangGraph-managed agents (itinerary, activity, weather, packing, culture, chat) powered by Ollama Llama 3.1 and Serper web search to generate exportable itineraries and PDF reports.
 
 | Category | Feature/Functionality | Associated Prompt | Can this be retrofitted to Cloudflare Workers? | Required Worker bindings |
 | --- | --- | --- | --- | --- |
