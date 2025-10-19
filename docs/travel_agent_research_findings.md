@@ -62,7 +62,7 @@
 **tripper**
 
 - **Repo URL:** https://github.com/embabel/tripper
-- **Project Description:** Kotlin Spring Boot application showcasing Embabel agent framework with deterministic planning, multi-LLM coordination (Claude Sonnet, GPT-4.1-mini), MCP tool containers, htmx UI, and Dockerized services for mapping, Airbnb, and search integrations.
+- **Project Description:** Kotlin Spring Boot application showcasing Embabel agent framework with deterministic planning, multi-LLM coordination (Claude Sonnet, GPT-4-Turbo), MCP tool containers, htmx UI, and Dockerized services for mapping, Airbnb, and search integrations.
 
 | Category | Feature/Functionality | Associated Prompt | Can this be retrofitted to Cloudflare Workers? | Required Worker bindings |
 | --- | --- | --- | --- | --- |
